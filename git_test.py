@@ -5,3 +5,6 @@ print(f'Hello {name}')
 
 height = input("Enter your height: ")
 print(f'Your height is {height}')
+
+age = input("Enter your age: ")
+print(f'Your age is {age}')
